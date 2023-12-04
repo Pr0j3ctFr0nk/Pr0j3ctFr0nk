@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Frank!
+- 👀 i got hooked on scratch a few months ago so here i am!
+- 🌱 I’m currently learning using cloud variables, and input/boolean custom blocks
+- 💞️ I’m looking to collaborate on: any horror or like fnaf games, even a cozy game!
+- 📫 How to reach me: im not going to use github to too much but here is my email: kelleher.frank@icloud.com
+- have a great day!
+- (print"i_always_come_back)
